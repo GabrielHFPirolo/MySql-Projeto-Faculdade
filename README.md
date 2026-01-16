@@ -1,6 +1,6 @@
 # Projeto Final — Banco de Dados
 
-Projeto desenvolvido para a disciplina de Banco de Dados juntamente ao aluno do perfil: **budny**
+Projeto desenvolvido para a disciplina de Banco de Dados juntamente ao aluno do perfil: **budny** ||
 Resoluções de pedidos para visualizações e aplicação em contextos específicos
 
 ## 📚 Descrição
